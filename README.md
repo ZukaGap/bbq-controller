@@ -7,6 +7,33 @@ A DIY IoT project using an ESP32-S3, MAX6675 K-type thermocouple, 4x20 I2C LCD, 
 ✅ Live website updates without page reload (AJAX)
 ✅ LCD displays Wi-Fi status, IP address, fan state, and temperature
 
+---
+
+## 📸 Project Images
+
+### Full Project Setup
+
+![Project Overview](examples/demo_project.jpg)
+
+### LCD Display in Action
+
+![LCD Display](examples/demo_project_display.jpg)
+
+### Mobile Web Interface
+
+![Mobile Screenshot 1](examples/mobile-screenshot.jpg)
+![Mobile Screenshot 2](examples/mobile-screenshot_2.jpg)
+
+### Web Interface on PC
+
+![Website Screenshot](examples/website-screenshot.png)
+
+---
+
+## ⚡ Features
+
+_... rest of your existing README..._
+
 ⚡ Features
 Connects to home Wi-Fi network
 
