@@ -3,8 +3,8 @@
 
 // MAX6675 Pins
 #define PIN_SO 19
-#define PIN_CS 5
-#define PIN_SCK 18
+#define PIN_CS 20
+#define PIN_SCK 3
 
 // LCD Config
 #define LCD_ADDRESS 0x27
@@ -17,6 +17,6 @@
 #define FAN_OFF_TEMP 350.0
 
 // Other
-#define TEMP_READ_INTERVAL 1000 * 5  // 5 seconds
+#define TEMP_READ_INTERVAL 20000  // 20 seconds
 
 #endif
