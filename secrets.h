@@ -2,8 +2,8 @@
 #define SECRETS_H
 
 // Wi-Fi Credentials
-#define WIFI_SSID "RT-18"
-#define WIFI_PASSWORD "Hesoyam18"
+#define WIFI_SSID "YOUR_WIFI_SSID"
+#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
 
 // Firebase Credentials
 #define API_KEY "YOUR_FIREBASE_API_KEY"
